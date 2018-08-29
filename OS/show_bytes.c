@@ -14,4 +14,3 @@ int main()
 	int ival=12345;
 	show_int(ival);
 }
-
